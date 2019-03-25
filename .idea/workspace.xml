@@ -2,33 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47eee6dc-c604-4393-97e7-add1222c156a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/bo/Translation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon-type-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon-type-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/pokemon-type-api.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/pokemon-type-api.postman_collection.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImplTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,45 +28,132 @@
     <session id="997547908">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="2" />
-          <entry key="gitignore" value="1" />
-          <entry key="java" value="49" />
-          <entry key="json" value="11" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="4" />
+          <entry key="class" value="3" />
+          <entry key="gitignore" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="106" />
+          <entry key="json" value="22" />
+          <entry key="md" value="2" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="49" />
-          <entry key="JSON" value="11" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="4" />
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="106" />
+          <entry key="JSON" value="22" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="20" />
-          <entry key="java" value="1104" />
+          <entry key="java" value="1449" />
+          <entry key="json" value="5" />
+          <entry key="md" value="368" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1104" />
+          <entry key="JAVA" value="1449" />
+          <entry key="JSON" value="5" />
+          <entry key="Markdown" value="368" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-291007970">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="1" />
+          <entry key="name" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="11" />
+          <entry key="properties" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="11" />
+          <entry key="Properties" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1060902817">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="6" />
+          <entry key="json" value="1" />
+          <entry key="md" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -88,76 +161,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/translations-en.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/translations-fr.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerIntegrationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1267#1268#0" expanded="true" />
-                <element signature="e#1308#1309#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/pokemon-type-api.postman_collection.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImplTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/pokemons.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9827" selection-start-column="9645" selection-end-column="9827" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="90">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="50" column="44" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,8 +202,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="105">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -178,10 +221,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepository.java">
+        <entry file="file://$PROJECT_DIR$/src/readMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/pokemon-type-api.postman_collection.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="639">
+              <caret line="102" column="53" selection-start-line="102" selection-start-column="52" selection-end-line="102" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="1183" column="10" lean-forward="true" selection-start-line="1183" selection-start-column="10" selection-end-line="1183" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -199,6 +272,16 @@
     <findStrings>
       <find>:25</find>
       <find>mr-mime</find>
+      <find>pikachu</find>
+      <find>Bulbasaur</find>
+      <find>bulbasaur</find>
+      <find>Bulbizarre</find>
+      <find>getPokemonTypeByName</find>
+      <find>getpokemonb</find>
+      <find>getpokemo</find>
+      <find>47</find>
+      <find>54</find>
+      <find>eau</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -207,7 +290,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/bo/PokemonType.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/repository/pokemon_type_api/bo/Stats.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/repository/pokemon_type_api/repository/PokemonTypeRepositoryImplTest.java" />
@@ -216,21 +298,27 @@
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/repository/PokemonTypeRepositoryImplTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/service/PokemonTypeServiceImplTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/controller/PokemonTypeControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/controller/PokemonTypeControllerIntegrationTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/Application.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/bo/Translation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImplTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/translations-fr.json" />
+        <option value="$PROJECT_DIR$/src/readMe.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/pokemon-type-api.postman_collection.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -268,10 +356,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="778" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="90" />
+    <option name="y" value="64" />
+    <option name="width" value="1308" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -304,7 +393,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,6 +403,11 @@
             <path>
               <item name="pokemon-type-api" type="b2602c69:ProjectViewProjectNode" />
               <item name="pokemon-type-api-GuillaumeVaillant" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pokemon-type-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pokemon-type-api-GuillaumeVaillant" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,15 +430,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pokemon_type_api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokemon-type-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokemon-type-api-GuillaumeVaillant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pokemon_type_api" type="462c0819:PsiDirectoryNode" />
-              <item name="bo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pokemon-type-api" type="b2602c69:ProjectViewProjectNode" />
@@ -392,47 +476,13 @@
               <item name="pokemon-type-api-GuillaumeVaillant" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokemon-type-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokemon-type-api-GuillaumeVaillant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pokemon_type_api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokemon-type-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokemon-type-api-GuillaumeVaillant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pokemon_type_api" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokemon-type-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokemon-type-api-GuillaumeVaillant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pokemon_type_api" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pokemon-type-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pokemon-type-api-GuillaumeVaillant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pokemon_type_api" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -443,21 +493,25 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551094433354" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553456969798" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/repository" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.miage.altea.tp.pokemon_type_api.service" />
       <recent name="com.miage.altea.tp.pokemon_type_api.bo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/repository" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -472,8 +526,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest] (1)">
-    <configuration name="PokemonTypeControllerIntegrationTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="PokemonTypeControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pokemon-type-api" />
       <extension name="coverage">
         <pattern>
@@ -483,6 +537,20 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.miage.altea.tp.pokemon_type_api.controller" />
       <option name="MAIN_CLASS_NAME" value="com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokemonTypeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pokemon-type-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miage.altea.tp.pokemon_type_api.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.miage.altea.tp.pokemon_type_api.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -515,54 +583,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest] (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="pokemon-type-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.miage.altea.tp.pokemon_type_api.controller.*" />
+          <option name="PATTERN" value="com.miage.altea.tp.pokemon_type_api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.miage.altea.tp.pokemon_type_api.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest" />
-      <option name="TEST_OBJECT" value="uniqueId" />
-      <uniqueIds>
-        <uniqueId value="[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest]" />
-      </uniqueIds>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest]" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="pokemon-type-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.miage.altea.tp.pokemon_type_api.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.miage.altea.tp.pokemon_type_api.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest" />
-      <option name="TEST_OBJECT" value="uniqueId" />
-      <uniqueIds>
-        <uniqueId value="[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest]" />
-      </uniqueIds>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.miage.altea.tp.pokemon_type_api.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PokemonTypeControllerIntegrationTest (1)" />
+      <item itemvalue="JUnit.PokemonTypeControllerIntegrationTest" />
       <item itemvalue="JUnit.PokemonTypeRepositoryImplTest" />
       <item itemvalue="JUnit.TranslationRepositoryImplTest" />
-      <item itemvalue="JUnit.[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest]" />
-      <item itemvalue="JUnit.[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest] (1)" />
+      <item itemvalue="JUnit.PokemonTypeControllerTest" />
+      <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest] (1)" />
-        <item itemvalue="JUnit.[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest]" />
-        <item itemvalue="JUnit.PokemonTypeControllerIntegrationTest (1)" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.PokemonTypeControllerIntegrationTest" />
+        <item itemvalue="JUnit.PokemonTypeControllerTest" />
         <item itemvalue="JUnit.PokemonTypeRepositoryImplTest" />
         <item itemvalue="JUnit.TranslationRepositoryImplTest" />
       </list>
@@ -589,50 +634,67 @@
       <updated>1548666645671</updated>
       <workItem from="1548666654079" duration="8152000" />
       <workItem from="1549264597035" duration="1750000" />
-      <workItem from="1551086371359" duration="5968000" />
+      <workItem from="1551086371359" duration="6257000" />
+      <workItem from="1552895079540" duration="9937000" />
+      <workItem from="1552905980820" duration="1723000" />
+      <workItem from="1553260051168" duration="1941000" />
+      <workItem from="1553266641032" duration="49000" />
+      <workItem from="1553268584635" duration="200000" />
+      <workItem from="1553455070308" duration="1002000" />
+      <workItem from="1553456336525" duration="628000" />
+      <workItem from="1553498944453" duration="470000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TranslationRepositoryImplTest - 2019.02.25 at 11h 36m 13s.xml">
+    <history-entry file="PokemonTypeServiceImplTest - 2019.03.22 at 14h 32m 17s.xml">
+      <configuration name="PokemonTypeServiceImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TranslationRepositoryImplTest - 2019.03.22 at 14h 32m 30s.xml">
       <configuration name="TranslationRepositoryImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PokemonTypeRepositoryImplTest - 2019.02.25 at 11h 36m 30s.xml">
+    <history-entry file="PokemonTypeRepositoryImplTest - 2019.03.22 at 14h 32m 36s.xml">
       <configuration name="PokemonTypeRepositoryImplTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PokemonTypeControllerIntegrationTest_(1) - 2019.02.25 at 11h 36m 43s.xml">
-      <configuration name="PokemonTypeControllerIntegrationTest (1)" configurationId="JUnit" />
+    <history-entry file="PokemonTypeControllerTest - 2019.03.22 at 14h 32m 41s.xml">
+      <configuration name="PokemonTypeControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PokemonTypeControllerIntegrationTest_getPokemon_withId1AndFrenchAcceptLanguage_shouldReturnBulbizarre - 2019.02.25 at 11h 40m 33s.xml">
-      <configuration name="PokemonTypeControllerIntegrationTest.getPokemon_withId1AndFrenchAcceptLanguage_shouldReturnBulbizarre" configurationId="JUnit" />
+    <history-entry file="PokemonTypeControllerIntegrationTest - 2019.03.22 at 14h 33m 06s.xml">
+      <configuration name="PokemonTypeControllerIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PokemonTypeControllerIntegrationTest_getPokemon_withId1AndFrenchAcceptLanguage_shouldReturnBulbizarre - 2019.02.25 at 11h 43m 05s.xml">
-      <configuration name="PokemonTypeControllerIntegrationTest.getPokemon_withId1AndFrenchAcceptLanguage_shouldReturnBulbizarre" configurationId="JUnit" />
+    <history-entry file="PokemonTypeControllerTest - 2019.03.22 at 14h 33m 34s.xml">
+      <configuration name="PokemonTypeControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TranslationRepositoryImplTest - 2019.02.25 at 11h 52m 09s.xml">
-      <configuration name="TranslationRepositoryImplTest" configurationId="JUnit" />
+    <history-entry file="PokemonTypeControllerTest - 2019.03.22 at 14h 34m 35s.xml">
+      <configuration name="PokemonTypeControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PokemonTypeRepositoryImplTest - 2019.02.25 at 11h 52m 22s.xml">
-      <configuration name="PokemonTypeRepositoryImplTest" configurationId="JUnit" />
+    <history-entry file="PokemonTypeControllerTest - 2019.03.22 at 14h 36m 38s.xml">
+      <configuration name="PokemonTypeControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PokemonTypeControllerIntegrationTest_(1) - 2019.02.25 at 11h 52m 36s.xml">
-      <configuration name="PokemonTypeControllerIntegrationTest (1)" configurationId="JUnit" />
+    <history-entry file="PokemonTypeControllerIntegrationTest - 2019.03.22 at 14h 37m 15s.xml">
+      <configuration name="PokemonTypeControllerIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="[engine_junit-jupiter]_[class_com_miage_altea_tp_pokemon_type_api_controller_PokemonTypeControllerIntegrationTest] - 2019.02.25 at 12h 29m 41s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest]" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="[engine_junit-jupiter]_[class_com_miage_altea_tp_pokemon_type_api_controller_PokemonTypeControllerIntegrationTest]_(1) - 2019.02.25 at 12h 32m 07s.xml">
-      <configuration name="[engine:junit-jupiter]/[class:com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeControllerIntegrationTest] (1)" configurationId="JUnit" />
+    <history-entry file="PokemonTypeControllerIntegrationTest - 2019.03.22 at 14h 38m 02s.xml">
+      <configuration name="PokemonTypeControllerIntegrationTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15870000" />
+    <option name="totallyTimeSpent" value="32109000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="90" y="64" width="1308" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3018598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37914693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -642,16 +704,16 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29036143" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5495627" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4481132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42610064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32944915" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3265306" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34527686" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.112048194" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.30025446" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -706,26 +768,48 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/pokemon_type_api/repository/pokemon_type_api/bo/Stats.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/bo/Stats.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -743,118 +827,199 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/bo/Sprites.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.1.2.RELEASE/spring-boot-test-2.1.2.RELEASE.jar!/org/springframework/boot/test/web/client/TestRestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="50" column="55" lean-forward="true" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pokemons.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7964" selection-start-column="7964" selection-end-column="7964" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/bo/PokemonType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="600">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImplTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="65" column="46" lean-forward="true" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-305">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/bo/Translation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/translations-fr.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="782" selection-start-column="779" selection-end-column="782" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/translations-en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="97" selection-start-column="97" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35730">
+          <caret line="2475" selection-start-line="2475" selection-end-line="2475" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokemon-type-api.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/sbt.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.14/tomcat-embed-core-9.0.14.jar!/org/apache/catalina/authenticator/AuthenticatorBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="260">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="131">
+          <caret line="50" column="44" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -863,86 +1028,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/pokemons.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9827" selection-start-column="9645" selection-end-column="9827" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/translations-en.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/translations-fr.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/pokemon-type-api.postman_collection.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/PokemonTypeRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/repository/TranslationRepositoryImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/pokemon_type_api/service/PokemonTypeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="79">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/pokemon_type_api/controller/PokemonTypeControllerIntegrationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/readMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/pokemon-type-api.postman_collection.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="639">
+          <caret line="102" column="53" selection-start-line="102" selection-start-column="52" selection-end-line="102" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="1183" column="10" lean-forward="true" selection-start-line="1183" selection-start-column="10" selection-end-line="1183" selection-end-column="10" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -1018,6 +1163,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

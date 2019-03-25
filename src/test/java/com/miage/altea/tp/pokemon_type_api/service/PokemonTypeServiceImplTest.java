@@ -4,8 +4,7 @@ import com.miage.altea.tp.pokemon_type_api.bo.PokemonType;
 import com.miage.altea.tp.pokemon_type_api.repository.PokemonTypeRepository;
 import com.miage.altea.tp.pokemon_type_api.repository.PokemonTypeRepositoryImpl;
 import com.miage.altea.tp.pokemon_type_api.repository.TranslationRepository;
-import com.miage.altea.tp.pokemon_type_api.service.PokemonTypeService;
-import com.miage.altea.tp.pokemon_type_api.service.PokemonTypeServiceImpl;
+import com.miage.altea.tp.pokemon_type_api.repository.TranslationRepositoryImpl;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.i18n.LocaleContextHolder;
@@ -24,8 +23,15 @@ class PokemonTypeServiceImplTest {
     @Test
     void pokemonTypeRepository_shouldBeCalled_whenFindById(){
         var pokemonTypeRepository = mock(PokemonTypeRepository.class);
-        var pokemonTypeService = new PokemonTypeServiceImpl(pokemonTypeRepository);
+        var translationRepository = mock(TranslationRepository.class);
+        var pokemonTypeService = new PokemonTypeServiceImpl();
+        pokemonTypeService.setPokemonTypeRepository(pokemonTypeRepository);
+        pokemonTypeService.setTranslationRepository(translationRepository);
 
+        when(translationRepository.getPokemonName(25, Locale.FRENCH)).thenReturn("Pikachu-FRENCH");
+        when(pokemonTypeRepository.findPokemonTypeById(25)).thenReturn(new PokemonType());
+
+        LocaleContextHolder.setLocale(Locale.FRENCH);
         pokemonTypeService.getPokemonType(25);
 
         verify(pokemonTypeRepository).findPokemonTypeById(25);
@@ -34,7 +40,8 @@ class PokemonTypeServiceImplTest {
     @Test
     void pokemonTypeRepository_shouldBeCalled_whenFindAll(){
         var pokemonTypeRepository = mock(PokemonTypeRepository.class);
-        var pokemonTypeService = new PokemonTypeServiceImpl(pokemonTypeRepository);
+        var pokemonTypeService = new PokemonTypeServiceImpl();
+        pokemonTypeService.setPokemonTypeRepository(pokemonTypeRepository);
 
         pokemonTypeService.getAllPokemonTypes();
 
@@ -43,7 +50,7 @@ class PokemonTypeServiceImplTest {
 
     @Test
     void applicationContext_shouldLoadPokemonTypeService(){
-        var context = new AnnotationConfigApplicationContext(PokemonTypeServiceImpl.class, PokemonTypeRepositoryImpl.class);
+        var context = new AnnotationConfigApplicationContext(PokemonTypeServiceImpl.class, PokemonTypeRepositoryImpl.class, TranslationRepositoryImpl.class);
         var serviceByName = context.getBean("pokemonTypeServiceImpl");
         var serviceByClass = context.getBean(PokemonTypeService.class);
 
@@ -54,7 +61,7 @@ class PokemonTypeServiceImplTest {
 
     @Test
     void pokemonTypeRepository_shouldBeAutowired_withSpring(){
-        var context = new AnnotationConfigApplicationContext(PokemonTypeServiceImpl.class, PokemonTypeRepositoryImpl.class);
+        var context = new AnnotationConfigApplicationContext(PokemonTypeServiceImpl.class, PokemonTypeRepositoryImpl.class, TranslationRepositoryImpl.class);
         var service = context.getBean(PokemonTypeServiceImpl.class);
         assertNotNull(service.pokemonTypeRepository);
     }

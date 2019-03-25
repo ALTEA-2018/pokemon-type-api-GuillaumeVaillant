@@ -1,7 +1,6 @@
 package com.miage.altea.tp.pokemon_type_api.controller;
 
 import com.miage.altea.tp.pokemon_type_api.bo.PokemonType;
-import com.miage.altea.tp.pokemon_type_api.controller.PokemonTypeController;
 import com.miage.altea.tp.pokemon_type_api.service.PokemonTypeService;
 import org.junit.jupiter.api.Test;
 import org.springframework.web.bind.annotation.GetMapping;

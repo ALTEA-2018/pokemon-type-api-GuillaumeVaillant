@@ -10,41 +10,37 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping(value = "/pokemon-types")
+@RequestMapping("/pokemon-types")
 public class PokemonTypeController {
 
-    public PokemonTypeService servicePokemon ;
+    PokemonTypeService pokemonTypeService;
 
     @Autowired
     public PokemonTypeController(PokemonTypeService service) {
-        this.servicePokemon = service;
+        this.pokemonTypeService = service;
     }
 
-    @GetMapping("/{id}")
+    @GetMapping(value = "/{id}")
     public PokemonType getPokemonTypeFromId(@PathVariable int id){
-        // TODO
-
-        return this.servicePokemon.getPokemonType(id);
-
+        return pokemonTypeService.getPokemonType(id);
     }
 
-    @GetMapping("/")
+    /*
+    @GetMapping(value = "/", params = "name")
+    public PokemonType getPokemonTypeFromId(@RequestParam String name){
+        return pokemonTypeService.getPokemonType(name);
+    }*/
+
+    @GetMapping(value = "/{name}")
+    public PokemonType getPokemonTypeFromId(@RequestParam String name){
+        return pokemonTypeService.getPokemonType(name);
+    }
+
+    @GetMapping(value = "")
     public List<PokemonType> getAllPokemonTypes() {
-        // TODO
-
-        return  this.servicePokemon.getAllPokemonTypes();
+        return pokemonTypeService.getAllPokemonTypes();
     }
-
-
-    @GetMapping(value = "", params = "name")
-    public PokemonType getPokemonByName(@RequestParam String name){
-        return this.servicePokemon.getPokemonTypeByName(name);
-    }
-
-
-    public PokemonTypeService getServicePokemon() {
-        return servicePokemon;
-    }
-
-
 }
+
+
+

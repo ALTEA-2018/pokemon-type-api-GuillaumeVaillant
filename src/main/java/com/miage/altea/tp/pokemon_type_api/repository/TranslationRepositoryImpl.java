@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
+import java.util.Optional;
 
 @Repository
 public class TranslationRepositoryImpl implements TranslationRepository {
@@ -42,10 +43,11 @@ public class TranslationRepositoryImpl implements TranslationRepository {
     public String getPokemonName(int id, Locale locale) {
         // TODO retourner le nom du pokemon  en fonction de la langue (Object locale) et de l'id du pokemon
 
-        this.defaultTranslations = this.translations.get(locale);
+        if (!this.translations.containsKey(locale)) {
+            return this.defaultTranslations.stream().filter(x -> x.getId() == id).findFirst().orElse(null).getName();
+        }
 
-        String name = this.defaultTranslations.stream().filter(x -> x.getId() == id).findFirst().orElse(null).getName();
+        return this.translations.get(locale).stream().filter(x -> x.getId() == id).findFirst().orElse(null).getName();
 
-        return name;
     }
 }

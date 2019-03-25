@@ -46,13 +46,15 @@ class PokemonTypeControllerIntegrationTest {
 
         assertNotNull(pikachu);
         assertEquals(25, pikachu.getId());
-        assertEquals("pikachu", pikachu.getName());
+        assertEquals("Pikachu", pikachu.getName());
         assertEquals(4, pikachu.getHeight());
     }
 
     @Test
     void getPokemon_withId1_shouldReturnBulbasaur() {
+
         var bulbasaur = this.restTemplate.getForObject("http://localhost:" + port + "/pokemon-types/1", PokemonType.class);
+
         assertNotNull(bulbasaur);
         assertEquals(1, bulbasaur.getId());
         assertEquals("Bulbasaur", bulbasaur.getName());
@@ -61,6 +63,7 @@ class PokemonTypeControllerIntegrationTest {
     @Test
     void getPokemon_withId1AndFrenchAcceptLanguage_shouldReturnBulbizarre() {
         var headers = new HttpHeaders();
+
         headers.setAcceptLanguageAsLocales(List.of(Locale.FRENCH));
 
         var httpRequest = new HttpEntity<>(headers);
